@@ -1,4 +1,4 @@
-### Project 2 Documentation
+# Project 2 Documentation
 
 
 ## Project-2 LEMP STACK IMPLEMENTATION
